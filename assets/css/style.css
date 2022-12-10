@@ -10,7 +10,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/*change header name to navbar*/
+/*change header name to .navbar*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -58,7 +58,7 @@ p {
     font-size: 16px;
 }
 
-/*change to .figure, readd image URL*/
+/*change to .image of people, readd image URL*/
 .hero {
     height: 800px;
     width: 100%;
@@ -87,7 +87,9 @@ p {
     margin-left: 20px;
 }
 
-/*changed html div to .aside*/
+/*move content to below hero image, placing not correct*/
+
+/*changed to .aside*/
 
 .benefits {
     margin-right: 20px;
@@ -100,7 +102,7 @@ p {
     background-color: #2589bd;
 }
 
-/*place lead, brand and cost into one selector as all the same design? ic condence them down */
+/*change to .benefit-lead, .benefit-brand, .benefit-cost into one selector*/
 
 .benefit-lead {
     margin-bottom: 32px;
@@ -117,6 +119,9 @@ p {
     color: #ffffff;
 }
 
+/*-------------------------------------*/
+
+/* change to h3, all of these can go into one selector as they are all the same*/
 
 .benefit-lead h3 {
     margin-bottom: 10px;
@@ -132,6 +137,8 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
+
+/* change to .aside img and add as selecto as all designs the same*/
 
 .benefit-lead img {
     display: block;
@@ -150,6 +157,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/*these can change to .article 1, 2, 3- article 2, article 3 as all the same design*/
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -178,6 +187,7 @@ p {
     color: #ffffff;
 }
 
+/*these can change to figure 1, 2, 3 img-  figure 2, figure 3 as all the same design*/
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -189,6 +199,8 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
+
+/*change to .figure h2*/
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
@@ -205,6 +217,8 @@ p {
     font-size: 36px;
 }
 
+
+/* Footer*/
 .footer {
     padding: 30px;
     clear: both;

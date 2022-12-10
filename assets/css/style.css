@@ -56,12 +56,12 @@ p {
     font-size: 16px;
 }
 
-/*change to .image of people, readd image URL*/
-.hero {
+/*changed to .figure and readded image fom CSS*/
+.figure {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("/assets/images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -79,7 +79,7 @@ p {
 /*move content to below hero image, placing not correct*/
 
 
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;

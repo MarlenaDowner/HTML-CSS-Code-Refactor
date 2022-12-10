@@ -52,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/*readd hero url image and change name ie main image of people*/
 .hero {
     height: 800px;
     width: 100%;
@@ -71,11 +72,14 @@ p {
     margin-left: 25px;
 }
 
+/*move content to below hero image, placing not correct*/
+
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+/*changed html div to aside*/
 
 .benefits {
     margin-right: 20px;
@@ -87,6 +91,8 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+
+/*place lead, brand and cost into one selector as all the same design? ic condence them down */
 
 .benefit-lead {
     margin-bottom: 32px;
@@ -102,6 +108,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
+
 
 .benefit-lead h3 {
     margin-bottom: 10px;

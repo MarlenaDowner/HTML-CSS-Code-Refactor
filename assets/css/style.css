@@ -10,6 +10,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*change header name to navbar*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -17,15 +18,18 @@ body {
     color: #ffffff;
 }
 
+/*change to h1*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/*change to h1, .seo*/
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/*poss change this to .menu titles*/
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -34,10 +38,12 @@ body {
     font-size: 20px;
 }
 
+/*can this not be removed as no style*/
 .header div ul {
     list-style-type: none;
 }
 
+/*change to .menu titles ul li*/
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
@@ -52,7 +58,7 @@ p {
     font-size: 16px;
 }
 
-/*readd hero url image and change name ie main image of people*/
+/*change to .figure, readd image URL*/
 .hero {
     height: 800px;
     width: 100%;
@@ -74,12 +80,14 @@ p {
 
 /*move content to below hero image, placing not correct*/
 
+
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-/*changed html div to aside*/
+
+/*changed html div to .aside*/
 
 .benefits {
     margin-right: 20px;

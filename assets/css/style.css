@@ -64,7 +64,7 @@ p {
     background-position: center;
 }
 
-/* DONE- move main to below hero image*/
+/* DONE- move main to be below figure image*/
 main {
     width: 75%;
     display: inline-block;
@@ -94,33 +94,23 @@ main {
     background-color: #2589bd;
 }
 
-/* DONE changed to .benefit-lead, .benefit-brand, .benefit-cost into one selector*/
+/* DONE changed .benefit-lead, .benefit-brand, .benefit-cost into one aside selector*/
 
-.benefit-lead,.benefit-brand,.benefit-cost {
+aside {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 /*-------------------------------------*/
 
-/* change to h3, all of these can go into one selector as they are all the same*/
-.benefit-lead, .benefit-brand, .benefit-cost, h3 {
+/* change to h3, and aside selector as they are all the same*/
+aside, h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
 /* change to .aside img and add as selecto as all designs the same*/
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-.benefit-cost img {
+aside img {
     display: block;
     margin: 10px auto;
     max-width: 150px;

@@ -17,29 +17,13 @@ https://marlenadowner.github.io/HTML-CSS-Code-Refactor/
 ## Repo Link:
 
 
-## Screenshots 
+## Screenshots:
 
 These screenshots are of Horiseons marking page.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](Assets/01-html-css-git-challenge-demo.png)
-
 
 ## License
 
 The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
-
-
----
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
-
-## Features
-
-If your project has a lot of features, consider adding a heading called "Features" and listing them there.
 
 ---
 

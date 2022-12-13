@@ -10,15 +10,6 @@ The refactoring I have done on the site will give better accessibility to anyone
 
 This project was great to work on, I learned the key importance of making sites accessible for all, and the importance of helping companies avoid litigation that can occur when people with disabilities cannot access their website with ease. It taught me the key steps to take when getting rid of redundant code, making sure HTML elements follow a logical structure independent of styling and positioning and leaving the code easier to read for the next person via sectioning and commentary.
 
-## Table of Contents (Optional)
-
-If your README is very long, add a table of contents to make it easy for users to find what they need.
-
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
-
 
 ## Installation
 
@@ -32,7 +23,11 @@ Provide instructions and examples for use. Include screenshots as needed.
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
 ```md
-![alt text](assets/images/screenshot.png)
+![alt Screenshot 1 of Horiseon site](./assets/images/Read%20me%20screenshot%20image.PNG)
+```
+
+```md
+![[alt Screenshot 1 of Horiseon site](./assets/images/Read%20me%20screenshot%20image%202.PNG
 ```
 
 

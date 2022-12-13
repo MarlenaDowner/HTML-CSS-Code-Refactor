@@ -10,6 +10,12 @@ The refactoring I have done on the site will give better accessibility to anyone
 
 This project was great to work on, I learned the key importance of making sites accessible for all, and the importance of helping companies avoid litigation that can occur when people with disabilities cannot access their website with ease. It taught me the key steps to take when getting rid of redundant code, making sure HTML elements follow a logical structure independent of styling and positioning and leaving the code easier to read for the next person via sectioning and commentary.
 
+# Deployed Link:
+
+https://marlenadowner.github.io/HTML-CSS-Code-Refactor/
+
+# Repo Link:
+
 
 ## Installation
 

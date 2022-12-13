@@ -9,7 +9,7 @@ body {
 }
 
 /*.................................DONE Header..............................*/
-/*change header name to .navbar*/
+/*change header name to header*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -28,7 +28,7 @@ h1 .seo {
     color: #d9dcd6;
 }
 
-/*poss change this to .menu titles*/
+/*changed to header*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -37,7 +37,7 @@ header nav {
     font-size: 20px;
 }
 
-/*change to .menu titles ul li*/
+/*changed to header*/
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -54,7 +54,7 @@ p {
  
 /*.........................search-engine-optimization section.................*/
 
-/*DONE changed to .figure and readded image fom CSS*/
+/*DONE changed to .main-photo and redone image*/
 
 .main-photo {
     height: 800px;
@@ -65,7 +65,7 @@ p {
     background-position: center;
 }
 
-/* DONE- move main to be below figure image*/
+/* DONE- moved main to be below .main-photo image*/
 main {
     width: 75%;
     display: inline-block;
@@ -82,7 +82,7 @@ main {
     margin-left: 25px;
 }
 
-/* DONE- moveed to follow logical structure*/
+/* DONE- moved to follow logical structure*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -145,7 +145,6 @@ aside img {
 }
 
 /*these can change to .article 1, 2, 3- article 2, article 3 as all the same design*/
-
 
 /*these can change to figure 1, 2, 3 img-  figure 2, figure 3 as all the same design*/
 .search-engine-optimization img {

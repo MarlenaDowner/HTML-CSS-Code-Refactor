@@ -2,20 +2,13 @@
 
 ## Description 
 
-Your GitHub profile is an extremely important aspect of your public identity as a developer. A well-crafted one allows you to show off your work to other developers as well as potential employers. An important component of your GitHub profile—and one that many new developers often overlook—is the README.md file.
+My motivation for this work was to refactor Horiseon Social Solution Services existing marketing site. 
 
-The quality of a README often differentiates a good project from a bad project. A good one takes advantage of the opportunity to explain and showcase what your application does, justify the technologies used, and even talk about some of the challenges you faced and features you hope to implement in the future. A good README helps you stand out among the large crowd of developers putting their work on GitHub.
+The main aim of the refactor was to make the site more accessible ensuring that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards. Refactoring the accessibility will also help the sites search engine's optimization.
 
-There's no one right way to structure a good README. There is one very wrong way, however, and that is to not include a README at all or to create a very anemic one. This guide outlines a few best practices. As you progress in your career, you will develop your own ideas about what makes a good README.
+The refactoring I have done on the site will give better accessibility to anyone with disabilities that use aids to help then use the internet. It also solves greater accessibility via long-term sustainability implemented, I achieved this by making sure all existing links are functioning correctly, reworking the existing CSS by consolidating CSS selectors and properties, arranging correct semantic structure of the HTML elements, and finally breaking the code down into readable section by including comment lines before each element or section of the page.
 
-At a minimum, your project README needs a title and a short description explaining the what, why, and how. What was your motivation? Why did you build this project? (Note: The answer is not "Because it was a homework assignment.") What problem does it solve? What did you learn? What makes your project stand out? 
-
-Lastly, if your project is deployed, include a link to the deployed application here.
-
-If you're new to Markdown, read the GitHub guide on [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
-
-If you need an example of a good README, check out [the VSCode repository](https://github.com/microsoft/vscode).
-
+This project was great to work on, I learned the key importance of making sites accessible for all, and the importance of helping companies avoid litigation that can occur when people with disabilities cannot access their website with ease. It taught me the key steps to take when getting rid of redundant code, making sure HTML elements follow a logical structure independent of styling and positioning and leaving the code easier to read for the next person via sectioning and commentary.
 
 ## Table of Contents (Optional)
 

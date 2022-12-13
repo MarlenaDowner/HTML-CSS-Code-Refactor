@@ -17,11 +17,6 @@ https://marlenadowner.github.io/HTML-CSS-Code-Refactor/
 # Repo Link:
 
 
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
-
 ## Usage 
 
 Provide instructions and examples for use. Include screenshots as needed. 
@@ -29,13 +24,8 @@ Provide instructions and examples for use. Include screenshots as needed.
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
 ```md
-![](Read me screenshot image 2.PNG)
+![alt](./assets/images/Read%20me%20screenshot%20image.PNG)
 ```
-
-```md
-![[alt Screenshot 1 of Horiseon site](./assets/images/Read%20me%20screenshot%20image%202.PNG
-```
-
 
 ## Credits
 
